@@ -7,5 +7,5 @@ Role-Based Interfaces: The backend is structured to support four distinct user i
 JWT Authentication: Security is paramount, and the backend implements JSON Web Tokens (JWT) for secure authentication, ensuring that only authorized users can access the system.
 MongoDB Integration: The backend seamlessly integrates with MongoDB, a robust NoSQL database, to efficiently manage and store data related to nursery operations, user profiles, and interactions.
 Scalable Architecture: The backend is designed with scalability in mind, allowing for future enhancements and the addition of new features to meet evolving requirements in nursery management .
-# The code is in the master branch
+# The code is on the master branch
 
